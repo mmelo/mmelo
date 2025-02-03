@@ -1,16 +1,18 @@
-<h2 align="center">
+<h2 align="left">
   Hi, I'm Miguel Melo and I'm a Frontend Developer
   👋
 </h2>
 
-<p align="center">
+<p align="left">
 <code align="center"><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 </p>
 
+<!--
 ![MMelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmelo&count_private=true&theme=merko)
+-->
 
 ### I mostly work(ed) with
 
